@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="Login.html"button>Kattints rá</a>
+<a href="Login.html"button>Katt</a>
 </body>
 </html>
