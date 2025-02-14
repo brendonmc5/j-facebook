@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="hu">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=login.html">
-    <title>Átirányítás...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-    <p>Ha az oldal nem tölt be automatikusan, kattints ide: <a href="login.html">Login</a></p>
+    <a href="Login.html"button>Kattints rá</a>
 </body>
-</html>  
+</html>
